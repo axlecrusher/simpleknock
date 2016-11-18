@@ -1,5 +1,5 @@
 # simpleknock
-A simple python TCP port knocking client. Works with Windows and Linux.
+A simple python TCP port knocking client for Windows and Linux.
 
 ## Useage
 Specify the target and port knock sequence on command line.
